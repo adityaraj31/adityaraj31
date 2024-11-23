@@ -3,13 +3,13 @@
 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nakul-bhardwaj/">
+  <a href="https://www.linkedin.com/in/adityarajsingh31/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
- <a href = "https://twitter.com/_NakulBhardwaj_" >
+ <a href = "https://x.com/AdityaRajS85706" >
   <img src = "https://skillicons.dev/icons?i=twitter" />
  </a>
-  <a href = "https://www.instagram.com/_nakulbhardwaj_/" >
+  <a href = "https://www.instagram.com/let.it.go.adi/" >
     <img src = "https://skillicons.dev/icons?i=instagram" />
   </a>
    
@@ -34,6 +34,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,go,java,bash,vim,github,mysql,postgres,postman " />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,express,mongodb,typescript,github,postgres,postman " />
   </a>
 </p>
