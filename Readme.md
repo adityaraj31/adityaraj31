@@ -34,6 +34,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,langchain,langgraph,n8n,mysql,mongodb,github,postgres,postman,mysql,gcp " />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,mongodb,github,postgres,postman,mysql,gcp " />
   </a>
 </p>
