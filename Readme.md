@@ -22,14 +22,11 @@
 
 ## 📬 Connect with Me
 <p align="center">
-  <a href="mailto:dakshc1709@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dakshc1709%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  <a href="mailto:rajadityasingh3007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rajadityasingh3007%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/daksh-choudhary-18336b249/">
-    <img src="https://img.shields.io/badge/LinkedIn-Daksh%20Choudhary-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/DakshC17">
-    <img src="https://img.shields.io/badge/X-@DakshC17-000000?style=for-the-badge&logo=twitter" alt="X"/>
+  <a href="https://linkedin.com/in/adityarajsingh31">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Singh-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
