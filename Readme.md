@@ -7,6 +7,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityaraj31&theme=aura" alt="Summary Stats" height="190"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityaraj31&theme=aura" alt="Top Languages" height="190"/>
+</div>
+
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityaraj31&theme=aura" alt="Profile Details" height="200"/>
+</div>
+
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj31&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
 </p> -->
