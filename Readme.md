@@ -1,6 +1,6 @@
 <h1 align="center">
   Hey there <img src="https://media.tenor.com/Og0XNCa_vo8AAAAi/qoobee-hi.gif" width="50" />, I'm Aditya Raj Singh
-  <h3 align="center">Generative AI & MLOps Engineer | Building Agentic AI Systems</h3>
+  <h3 align="center">AI / ML Engineer | Building Agentic AI Systems</h3>
 </h1> 
 
 <p align="center">
